@@ -20,7 +20,7 @@ Benötigte Hardware:
 - Widerstand Y Ohm
 - X Akku
 - X Akkubasis
-- ESP8266 Button Shield
+- D1 Mini - ESP8266 Button Shield
 - X Pieper
 - X Gassensor
 
