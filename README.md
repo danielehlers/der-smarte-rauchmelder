@@ -7,9 +7,9 @@ Mitglieder:
 - Mavin Tekce
 - Daniel Ehlers
 
-Der Smarte Rauchmelder ist ein smartes, akkubetriebenes Sicherheitssystem, welches eigenständig kritische Anteile von Rauch in der Luft erkennen und eine Benachrichtung an beliebig viele WiFi-fähige Endgeräte verschicken kann. Ebenfalls wird bei Detektion von Rauch ein laut hörbarer Warnton abgegeben.
+Der Smarte Rauchmelder ist ein smartes, akkubetriebenes Sicherheitssystem, welches eigenständig kritische Anteile von Rauch in der Luft erkennen und eine Benachrichtung an beliebig viele WiFi-fähige Endgeräte verschicken kann. Ebenfalls wird bei Detektion von Rauch ein laut hörbarer Warnton abgegeben, welcher sich mittels eines physischen Tasters wieder abschalten lässt.
 
-In diesem Respository befinden sich sämtliche, zur Installation und Inbetriebnahme des Smarten Rauchmelders erforderlichen Dateien.
+In diesem Respository befinden sich sämtliche zur Installation und Inbetriebnahme des Smarten Rauchmelders erforderlichen Dateien.
 
 Benötigte Hardware:
 - D1 Mini - ESP8266
