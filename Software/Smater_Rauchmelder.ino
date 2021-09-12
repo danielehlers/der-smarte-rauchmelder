@@ -133,6 +133,7 @@ void loop()
   if (buttonZaehler % 2 == 0)
   {
 
+    //to check on the serial monitor
     Serial.print("Sensor Value: ");
     Serial.print(sensorValue);
     
@@ -153,8 +154,10 @@ void loop()
   {
     digitalWrite(buzzer, LOW);
   }
+    //to check on the serial monitor
     letzterStatus = buttonstatus; 
     Serial.println(buttonZaehler);
+  
   delay(2000);
 }
 
