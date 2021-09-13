@@ -22,7 +22,7 @@ const int buzzer = D2;
 const int button = D3;
 
 const char* mqtt_topic_publish = "Rauchmelder";
-const char* mqtt_topic_subscribe = "wetterID/20";
+const char* mqtt_topic_subscribe = "Rauchmelder";
 
 //--------------------------------------------------------
 
