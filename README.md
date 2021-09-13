@@ -18,11 +18,11 @@ Benötigte Hardware:
 - X LED-Streifen mit 4 LEDs
 - Widerstand X Ohm
 - Widerstand Y Ohm
-- X Akku
-- X Akkubasis
+- DTP 523450 3.7V 1000mAh Akku
+- D1 Mini - ESP8266 Batterie Schild
 - D1 Mini - ESP8266 Button Shield
-- X Pieper
-- X Gassensor
+- QC Passed Elektronischer Summer 3-24V
+- MQ-2 Gassensor
 
 
 Benötigte Software:
