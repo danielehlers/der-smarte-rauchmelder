@@ -15,7 +15,7 @@ Benötigte Hardware:
 - D1 Mini - ESP8266
 - Rote LED
 - Grüne LED
-- X LED-Streifen mit 4 LEDs
+- WS2812B LED-Streifen mit 4 LEDs
 - Widerstand 100 Ohm
 - Widerstand 1.8k Ohm
 - DTP 523450 3.7V 1000mAh Akku
