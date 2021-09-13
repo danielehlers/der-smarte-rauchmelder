@@ -16,8 +16,8 @@ Benötigte Hardware:
 - Rote LED
 - Grüne LED
 - X LED-Streifen mit 4 LEDs
-- Widerstand X Ohm
-- Widerstand Y Ohm
+- Widerstand 100 Ohm
+- Widerstand 1.8k Ohm
 - DTP 523450 3.7V 1000mAh Akku
 - D1 Mini - ESP8266 Batterie Schild
 - D1 Mini - ESP8266 Button Shield
