@@ -27,7 +27,7 @@ const char* mqtt_topic_subscribe = "Rauchmelder";
 //--------------------------------------------------------
 
 
-//folgende vier Parameter nicht Ã¤ndern
+//Do not change the following four parameters
 //--------------------------------
 const char* mqtt_server = "mqtt.iot.informatik.uni-oldenburg.de";
 const int mqtt_port = 2883;
@@ -136,8 +136,10 @@ void loop()
     Serial.print("Sensor Value: ");
     Serial.print(sensorValue);
     
+    //Change the following value for easier testing
+    //--------------------------------
     if(sensorValue > 300){
-
+    //--------------------------------
     
       client.publish(mqtt_topic_publish, "Es brennt in der Wohnung");
       //to check on the serial monitor
