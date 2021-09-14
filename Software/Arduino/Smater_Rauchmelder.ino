@@ -91,7 +91,7 @@ void setup()
     leds[i] = CRGB( 255, 0, 0);
     }
   FastLED.show();
-  delay(30);
+  delay(200);
    for (int i = 1; i < NUM_LEDS; i++) {
     leds[i] = CRGB( 0, 0, 0);
     }
