@@ -132,14 +132,15 @@ void loop()
 
   if (buttonZaehler % 2 == 0)
   {
-
+    //to check on the serial monitor
     Serial.print("Sensor Value: ");
     Serial.print(sensorValue);
     
     if(sensorValue > 300){
 
-      //to check on the serial monitor
+    
       client.publish(mqtt_topic_publish, "Es brennt in der Wohnung");
+      //to check on the serial monitor
       Serial.print(" | Smoke detected!");
       Alarm();
       LED_effect_Alarm();
