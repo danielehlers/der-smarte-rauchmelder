@@ -28,7 +28,7 @@ Benötigte Hardware:
 Benötigte Software:
 - Arduino-Programmcode
 - Node-RED
-- Pushover App für Pushbenachrichtungen
+- Pushover App
 
 
 Empfohlenes Gehäuse:
